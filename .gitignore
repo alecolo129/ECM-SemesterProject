@@ -7,7 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
+**/.Python
+**/.vscode
+**/.DS_Store
 build/
 develop-eggs/
 dist/
@@ -127,3 +129,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#Custom
+c++/old.cpp
+c++/ecm.cpp
