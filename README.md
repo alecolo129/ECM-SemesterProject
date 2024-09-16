@@ -3,6 +3,10 @@ This folder contains all the code developed for Re-Discovering ECM Semester proj
 
 ## Files in this folder
 
+* `docs/`
+    - `report.pdf`—Project report, contains my contributions and includes the required background on elliptic curves.
+
+    - `slides.pdf`—Slides used for presenting the projet.
 
 * `sage/`
     
